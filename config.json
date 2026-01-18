@@ -4,7 +4,7 @@
 	"dir": "/kaggle/working/CityFlow/",
 	"roadnetFile": "roadnet_3_3.json", 
 	"flowFile": "anon_3_3_300_0.3_bi.json", 
-	"rlTrafficLight": false,
+	"rlTrafficLight": true,
 	"laneChange": false,
 	"saveReplay": false,
 	"roadnetLogFile": "replay_roadnet.json", 
